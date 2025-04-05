@@ -4,8 +4,8 @@ with open('README.md') as readme:
     readme_content = readme.read()
 
 setup(
-    name="Shiprocket",
-    version="1.0.1",
+    name="Shiprocket-sdk",
+    version="1.0.2",
     description="This is the python client for the shiprocket",
     long_description=readme_content,
     long_description_content_type='text/markdown',

@@ -22,4 +22,4 @@ This is a Python SDK that provides a convenient and easy-to-use interface for in
 You can install the Shiprocket Python SDK using pip:
 
 ```bash
-pip install shiprocket
+pip install shiprocket-sdk
