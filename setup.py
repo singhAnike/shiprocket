@@ -11,13 +11,11 @@ setup(
     long_description_content_type='text/markdown',
     packages=find_packages(),
     author="Aniket Singh",
-    # license="MIT",
+    author_email="singh7509811123@gmail.com",  # Added author email
+    url="https://github.com/singhAnike/shiprocket.git",  # Added project URL
     keywords="python client for the uses of the shiprocket",
     include_package_data=True,
     install_requires=[
-    'cachetools==5.2.1',
-    
-],
-
-   
+        'cachetools==5.2.1',
+    ],
 )
